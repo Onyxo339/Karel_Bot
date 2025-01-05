@@ -7,3 +7,10 @@
 - POLOZ: Blok ve kterém se nachází změní barvu na modrou.
 - RESET: Vymaže všechny POLOZ akce a vrátí karla na x: 0 a y: 0.
 - RESET KAREL: Zanechá vše a pouze vrátí karla na x: 0 a y: 0.
+
+- PHP verze:
+![Karel Robot - Opera 1_5_2025 11_50_17 AM](https://github.com/user-attachments/assets/1d586763-224b-40e7-82c7-32bd41ed0c07)
+
+- JavaScript verze
+  ![Karel Robot - Opera 1_5_2025 12_07_34 PM](https://github.com/user-attachments/assets/b5f38e06-fce6-4629-a629-a2282076374b)
+
